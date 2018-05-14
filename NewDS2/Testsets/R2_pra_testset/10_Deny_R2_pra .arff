@@ -1,0 +1,17 @@
+@relation 10_Deny_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+490,11,?
+490,12,?
+490,13,?
+490,14,?
+490,15,?
+490,16,?
+490,17,?
+490,18,?
+490,19,?
+490,20,?

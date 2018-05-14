@@ -1,0 +1,17 @@
+@relation 10_deny_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+271,15,?
+271,16,?
+271,17,?
+271,19,?
+271,20,?
+272,1,?
+272,2,?
+272,3,?
+272,5,?
+272,6,?

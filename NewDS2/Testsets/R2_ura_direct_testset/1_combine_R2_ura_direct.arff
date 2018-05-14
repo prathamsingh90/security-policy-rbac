@@ -1,0 +1,9 @@
+@relation 1_combine_R2_ura_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+242,4,?
+369,19,?

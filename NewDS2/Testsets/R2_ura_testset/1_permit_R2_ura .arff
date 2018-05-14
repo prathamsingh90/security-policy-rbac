@@ -1,0 +1,9 @@
+@relation 1_permit_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+242,4,?
+

@@ -1,0 +1,27 @@
+@relation 20_deny_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+643,16,?
+643,17,?
+643,18,?
+643,20,?
+644,1,?
+644,2,?
+644,3,?
+644,4,?
+644,5,?
+644,6,?
+644,7,?
+644,8,?
+644,10,?
+644,11,?
+644,12,?
+644,13,?
+644,14,?
+644,15,?
+644,16,?
+644,17,?

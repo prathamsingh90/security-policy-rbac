@@ -1,0 +1,27 @@
+@relation 20_deny_R2_ura_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+590,17,?
+590,19,?
+590,20,?
+591,1,?
+591,2,?
+591,3,?
+591,4,?
+591,5,?
+591,6,?
+591,7,?
+591,9,?
+591,10,?
+591,11,?
+591,12,?
+591,13,?
+591,14,?
+591,15,?
+591,16,?
+591,17,?
+591,19,?

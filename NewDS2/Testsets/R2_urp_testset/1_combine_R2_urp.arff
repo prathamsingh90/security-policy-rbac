@@ -1,0 +1,10 @@
+@relation 1_combine_R2_urp
+
+@attribute a1 numeric
+@attribute a2 numeric
+@attribute a3 numeric
+@attribute a4 {Permit,Deny}
+
+@data
+50,1,1,?
+12,10,443,?

@@ -1,0 +1,9 @@
+@relation 1_Combine_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+1,1,?
+977,1,?

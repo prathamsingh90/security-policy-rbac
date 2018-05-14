@@ -1,0 +1,17 @@
+@relation 10_combine_R2_ura_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+242,4,?
+242,14,?
+243,4,?
+243,14,?
+244,4,?
+242,5,?
+242,6,?
+242,7,?
+242,8,?
+242,9,?

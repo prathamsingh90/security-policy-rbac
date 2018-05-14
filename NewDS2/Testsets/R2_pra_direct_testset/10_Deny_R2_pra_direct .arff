@@ -1,0 +1,18 @@
+@relation 10_Deny_R2_pra_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+967,10,?
+967,11,?
+967,12,?
+967,13,?
+967,14,?
+967,15,?
+967,16,?
+967,17,?
+967,18,?
+967,19,?
+

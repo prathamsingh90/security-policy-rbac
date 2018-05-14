@@ -1,0 +1,12 @@
+@relation 5_permit_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+242,4,?
+242,14,?
+243,4,?
+243,14,?
+244,4,?

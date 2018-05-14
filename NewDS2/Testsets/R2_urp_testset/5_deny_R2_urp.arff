@@ -1,0 +1,14 @@
+@relation 5_deny_R2_urp
+
+@attribute a1 numeric
+@attribute a2 numeric
+@attribute a3 numeric
+@attribute a4 {Permit,Deny}
+
+@data
+12,10,438,?
+12,10,439,?
+12,10,440,?
+12,10,441,?
+12,10,442,?
+

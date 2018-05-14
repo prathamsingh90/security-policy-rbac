@@ -1,0 +1,75 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     Total_R2_urp
+Instances:    435500
+Attributes:   4
+              a1
+              a2
+              a3
+              a4
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Predictions on test set ===
+
+    inst#     actual  predicted error prediction
+        1        1:?   1:Permit       1 
+        2        1:?   1:Permit       1 
+        3        1:?   1:Permit       1 
+        4        1:?   1:Permit       1 
+        5        1:?   1:Permit       1 
+        6        1:?   1:Permit       1 
+        7        1:?   1:Permit       1 
+        8        1:?   1:Permit       1 
+        9        1:?   1:Permit       1 
+       10        1:?   1:Permit       1 
+       11        1:?   1:Permit       1 
+       12        1:?   1:Permit       1 
+       13        1:?   1:Permit       1 
+       14        1:?   1:Permit       1 
+       15        1:?   1:Permit       1 
+       16        1:?   1:Permit       1 
+       17        1:?   1:Permit       1 
+       18        1:?   1:Permit       1 
+       19        1:?   1:Permit       1 
+       20        1:?   1:Permit       1 
+       21        1:?   1:Permit       1 
+       22        1:?   1:Permit       1 
+       23        1:?   1:Permit       1 
+       24        1:?   1:Permit       1 
+       25        1:?   1:Permit       1 
+       26        1:?     2:Deny       1 
+       27        1:?     2:Deny       1 
+       28        1:?     2:Deny       1 
+       29        1:?     2:Deny       1 
+       30        1:?     2:Deny       1 
+       31        1:?     2:Deny       1 
+       32        1:?     2:Deny       1 
+       33        1:?     2:Deny       1 
+       34        1:?     2:Deny       1 
+       35        1:?     2:Deny       1 
+       36        1:?     2:Deny       1 
+       37        1:?     2:Deny       1 
+       38        1:?     2:Deny       1 
+       39        1:?     2:Deny       1 
+       40        1:?     2:Deny       1 
+       41        1:?     2:Deny       1 
+       42        1:?     2:Deny       1 
+       43        1:?     2:Deny       1 
+       44        1:?     2:Deny       1 
+       45        1:?     2:Deny       1 
+       46        1:?     2:Deny       1 
+       47        1:?     2:Deny       1 
+       48        1:?     2:Deny       1 
+       49        1:?     2:Deny       1 
+       50        1:?     2:Deny       1 
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.01 seconds
+
+=== Summary ===
+
+Total Number of Instances                0     
+Ignored Class Unknown Instances                 50     
+

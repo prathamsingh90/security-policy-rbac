@@ -1,0 +1,19 @@
+@relation 10_deny_R2_uror
+
+@attribute a1 numeric
+@attribute a2 numeric
+@attribute a3 numeric
+@attribute a4 numeric
+@attribute a5 {Permit,Deny}
+
+@data
+3,6,453,1,?
+3,6,453,2,?
+3,6,453,3,?
+3,6,453,4,?
+3,6,453,5,?
+3,6,454,1,?
+3,6,454,2,?
+3,6,454,3,?
+3,6,454,4,?
+3,6,454,5,?

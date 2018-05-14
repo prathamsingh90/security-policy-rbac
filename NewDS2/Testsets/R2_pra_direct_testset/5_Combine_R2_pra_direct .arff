@@ -1,0 +1,12 @@
+@relation 5_Combine_R2_pra_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+1000,11,?
+1000,12,?
+45,1,?
+46,1,?
+47,1,?

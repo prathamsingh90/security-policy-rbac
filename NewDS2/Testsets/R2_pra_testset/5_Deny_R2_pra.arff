@@ -1,0 +1,12 @@
+@relation 5_Deny_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+616,4,?
+616,5,?
+616,6,?
+616,7,?
+616,8,?

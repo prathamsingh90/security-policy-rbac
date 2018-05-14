@@ -1,0 +1,10 @@
+@relation 1_deny_R2_uror
+
+@attribute a1 numeric
+@attribute a2 numeric
+@attribute a3 numeric
+@attribute a4 numeric
+@attribute a5 {Permit,Deny}
+
+@data
+1,9,382,4,?

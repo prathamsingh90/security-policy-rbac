@@ -1,0 +1,8 @@
+@relation 1_Deny_R2_pra_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+935,1,?

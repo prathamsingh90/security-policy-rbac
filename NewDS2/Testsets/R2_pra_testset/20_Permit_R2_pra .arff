@@ -1,0 +1,27 @@
+@relation 20_Permit_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+373,8,?
+374,8,?
+375,8,?
+376,8,?
+377,8,?
+378,8,?
+379,8,?
+380,8,?
+381,8,?
+382,8,?
+383,8,?
+384,8,?
+385,8,?
+386,8,?
+387,8,?
+388,8,?
+389,8,?
+390,8,?
+391,8,?
+392,8,?

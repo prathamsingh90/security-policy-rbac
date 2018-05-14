@@ -1,0 +1,17 @@
+@relation 10_Permit_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+215,5,?
+216,5,?
+217,5,?
+218,5,?
+219,5,?
+220,5,?
+221,5,?
+222,5,?
+223,5,?
+224,5,?

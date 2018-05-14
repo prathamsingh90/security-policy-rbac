@@ -1,0 +1,27 @@
+@relation 20_Combine_R2_pra
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+223,10,?
+223,11,?
+223,12,?
+223,13,?
+223,14,?
+223,15,?
+223,16,?
+223,17,?
+223,18,?
+223,19,?
+141,1,?
+142,1,?
+143,1,?
+144,1,?
+145,1,?
+146,1,?
+147,1,?
+148,1,?
+149,1,?
+150,1,?

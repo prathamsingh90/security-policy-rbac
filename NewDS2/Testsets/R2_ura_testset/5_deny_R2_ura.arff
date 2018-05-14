@@ -1,0 +1,12 @@
+@relation 5_deny_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+231,11,?
+231,12,?
+231,13,?
+231,15,?
+231,16,?

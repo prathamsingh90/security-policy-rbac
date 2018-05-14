@@ -1,0 +1,9 @@
+@relation 1_combine_R2_ura
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+311,16,?
+1,1,?

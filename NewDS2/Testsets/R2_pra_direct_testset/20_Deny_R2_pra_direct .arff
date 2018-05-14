@@ -1,0 +1,27 @@
+@relation 20_Deny_R2_pra_direct
+
+@attribute 'attribute 0' numeric
+@attribute ' attribute 1' numeric
+@attribute ' attribute 2' {Permit,Deny}
+
+@data
+906,20,?
+907,1,?
+907,2,?
+907,3,?
+907,4,?
+907,5,?
+907,6,?
+907,7,?
+907,8,?
+907,9,?
+907,10,?
+907,11,?
+907,12,?
+907,13,?
+907,14,?
+907,15,?
+907,16,?
+907,17,?
+907,18,?
+259,3,?
