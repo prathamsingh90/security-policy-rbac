@@ -1,0 +1,44 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     COMBINED_R1_ura
+Instances:    750
+Attributes:   3
+              attribute1
+              attribute2
+              attribute3
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Predictions on test set ===
+
+    inst#     actual  predicted error prediction
+        1        1:?     1:Deny       1 
+        2        1:?     1:Deny       1 
+        3        1:?     1:Deny       1 
+        4        1:?     1:Deny       1 
+        5        1:?     1:Deny       1 
+        6        1:?     1:Deny       1 
+        7        1:?     1:Deny       0.941 
+        8        1:?     1:Deny       1 
+        9        1:?     1:Deny       0.941 
+       10        1:?     1:Deny       0.941 
+       11        1:?     1:Deny       1 
+       12        1:?     1:Deny       1 
+       13        1:?     1:Deny       1 
+       14        1:?     1:Deny       1 
+       15        1:?     1:Deny       1 
+       16        1:?     1:Deny       1 
+       17        1:?     1:Deny       1 
+       18        1:?     1:Deny       1 
+       19        1:?     1:Deny       1 
+       20        1:?     1:Deny       1 
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0 seconds
+
+=== Summary ===
+
+Total Number of Instances                0     
+Ignored Class Unknown Instances                 20     
+

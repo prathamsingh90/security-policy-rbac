@@ -1,0 +1,9 @@
+@relation 1_Testset_Deny_R1_pra
+
+@attribute attribute_0 numeric
+@attribute attribute_1 numeric
+@attribute attribute_2 {Deny,Permit}
+
+@data
+1,2,?
+

@@ -1,0 +1,8 @@
+@relation 1_Deny_Testset_R1_ura
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+16,1,?

@@ -1,0 +1,18 @@
+@relation 10_Testset_Deny_R1_urp
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 {Deny,Permit}
+
+@data
+26,6,1,?
+26,6,2,?
+26,6,3,?
+26,6,4,?
+26,6,6,?
+26,6,7,?
+26,6,8,?
+26,7,1,?
+26,7,2,?
+26,7,3,?

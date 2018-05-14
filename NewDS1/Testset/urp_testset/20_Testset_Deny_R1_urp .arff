@@ -1,0 +1,28 @@
+@relation 20_Testset_Deny_R1_urp
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 {Deny,Permit}
+
+@data
+54,4,58,?
+54,4,59,?
+54,4,60,?
+54,4,61,?
+54,4,62,?
+54,4,63,?
+54,4,64,?
+54,4,65,?
+54,4,66,?
+54,4,67,?
+54,4,68,?
+54,4,69,?
+54,4,70,?
+54,4,71,?
+54,4,72,?
+54,4,73,?
+54,4,74,?
+54,4,75,?
+54,4,76,?
+63,5,55,?

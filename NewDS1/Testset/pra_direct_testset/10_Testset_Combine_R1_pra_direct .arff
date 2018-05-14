@@ -1,0 +1,17 @@
+@relation 10_Testset_Combine_R1_pra_direct
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+2,9,?
+2,10,?
+3,2,?
+3,3,?
+11,1,?
+59,6,?
+60,6,?
+61,7,?
+62,7,?
+63,7,?

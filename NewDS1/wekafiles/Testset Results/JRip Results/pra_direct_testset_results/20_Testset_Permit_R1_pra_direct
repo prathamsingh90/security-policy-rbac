@@ -1,0 +1,44 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     COMBINED_R1_pra_direct
+Instances:    1000
+Attributes:   3
+              attribute1
+              attribute2
+              attribute3
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Predictions on test set ===
+
+    inst#     actual  predicted error prediction
+        1        1:?     1:Deny       0.998 
+        2        1:?   2:Permit       0.9 
+        3        1:?   2:Permit       1 
+        4        1:?   2:Permit       1 
+        5        1:?   2:Permit       1 
+        6        1:?   2:Permit       1 
+        7        1:?   2:Permit       1 
+        8        1:?   2:Permit       0.909 
+        9        1:?   2:Permit       0.909 
+       10        1:?   2:Permit       1 
+       11        1:?   2:Permit       1 
+       12        1:?   2:Permit       0.909 
+       13        1:?   2:Permit       1 
+       14        1:?   2:Permit       1 
+       15        1:?   2:Permit       1 
+       16        1:?   2:Permit       1 
+       17        1:?   2:Permit       1 
+       18        1:?   2:Permit       1 
+       19        1:?   2:Permit       1 
+       20        1:?   2:Permit       1 
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0 seconds
+
+=== Summary ===
+
+Total Number of Instances                0     
+Ignored Class Unknown Instances                 20     
+

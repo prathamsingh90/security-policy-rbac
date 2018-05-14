@@ -1,0 +1,29 @@
+@relation 20_Testset_Combine_R1_urp
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 {Deny,Permit}
+
+@data
+56,9,37,?
+56,9,38,?
+56,9,39,?
+56,9,40,?
+56,9,41,?
+56,9,42,?
+56,9,43,?
+56,9,44,?
+56,9,45,?
+61,5,96,?
+69,10,99,?
+61,10,99,?
+75,10,99,?
+70,10,99,?
+74,10,99,?
+68,10,99,?
+73,10,99,?
+71,10,99,?
+63,10,99,?
+67,10,99,?
+

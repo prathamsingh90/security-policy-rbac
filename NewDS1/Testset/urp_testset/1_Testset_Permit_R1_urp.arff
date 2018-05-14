@@ -1,0 +1,9 @@
+@relation 1_Testset_Permit_R1_urp
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 {Deny,Permit}
+
+@data
+47,4,33,?

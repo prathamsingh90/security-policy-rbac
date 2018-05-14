@@ -1,0 +1,10 @@
+@relation 1_Combine_Testset_R1_ura
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+18,1,?
+7,3,?
+

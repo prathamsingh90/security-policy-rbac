@@ -1,0 +1,12 @@
+@relation 5_Permit_Testset_R1_ura_direct
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+28,2,?
+28,7,?
+29,2,?
+29,7,?
+30,2,?

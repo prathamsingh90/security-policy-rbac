@@ -1,0 +1,74 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     COMBINED_R1_pra
+Instances:    1000
+Attributes:   3
+              attribute_0
+              attribute_1
+              attribute_2
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Predictions on test set ===
+
+    inst#     actual  predicted error prediction
+        1        1:?     1:Deny       0.987 
+        2        1:?     1:Deny       0.987 
+        3        1:?     1:Deny       0.987 
+        4        1:?     1:Deny       0.987 
+        5        1:?     1:Deny       0.987 
+        6        1:?     1:Deny       0.987 
+        7        1:?     1:Deny       0.987 
+        8        1:?     1:Deny       0.987 
+        9        1:?     1:Deny       0.987 
+       10        1:?     1:Deny       0.987 
+       11        1:?     1:Deny       0.987 
+       12        1:?     1:Deny       0.987 
+       13        1:?     1:Deny       0.987 
+       14        1:?     1:Deny       0.987 
+       15        1:?     1:Deny       0.987 
+       16        1:?     1:Deny       0.987 
+       17        1:?     1:Deny       0.987 
+       18        1:?     1:Deny       0.987 
+       19        1:?     1:Deny       0.987 
+       20        1:?     1:Deny       0.987 
+       21        1:?     1:Deny       0.987 
+       22        1:?     1:Deny       0.987 
+       23        1:?     1:Deny       0.987 
+       24        1:?     1:Deny       0.987 
+       25        1:?     1:Deny       0.987 
+       26        1:?     1:Deny       0.987 
+       27        1:?     1:Deny       0.987 
+       28        1:?     1:Deny       0.987 
+       29        1:?   2:Permit       0.667 
+       30        1:?     1:Deny       0.987 
+       31        1:?     1:Deny       0.987 
+       32        1:?     1:Deny       0.987 
+       33        1:?     1:Deny       0.987 
+       34        1:?     1:Deny       0.987 
+       35        1:?     1:Deny       0.987 
+       36        1:?     1:Deny       0.987 
+       37        1:?     1:Deny       0.987 
+       38        1:?     1:Deny       0.987 
+       39        1:?     1:Deny       0.987 
+       40        1:?     1:Deny       0.987 
+       41        1:?     1:Deny       0.987 
+       42        1:?     1:Deny       0.987 
+       43        1:?     1:Deny       0.987 
+       44        1:?     1:Deny       0.987 
+       45        1:?     1:Deny       0.987 
+       46        1:?     1:Deny       0.987 
+       47        1:?     1:Deny       0.987 
+       48        1:?     1:Deny       0.987 
+       49        1:?     1:Deny       0.987 
+       50        1:?     1:Deny       0.987 
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.01 seconds
+
+=== Summary ===
+
+Total Number of Instances                0     
+Ignored Class Unknown Instances                 50     
+

@@ -1,0 +1,14 @@
+@relation 5_Testset_Permit_R1_urp
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 {Deny,Permit}
+
+@data
+62,10,99,?
+72,10,99,?
+74,10,100,?
+65,10,100,?
+62,10,100,?
+

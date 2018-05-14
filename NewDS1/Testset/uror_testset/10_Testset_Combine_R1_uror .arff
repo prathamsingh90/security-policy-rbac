@@ -1,0 +1,19 @@
+@relation 10_Testset_Combine_R1_uror
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 numeric
+@attribute attribute5 {Deny,Permit}
+
+@data
+9,10,2,1,?
+9,10,2,2,?
+9,10,2,3,?
+9,10,2,4,?
+9,10,2,5,?
+48,4,37,4,?
+58,4,36,4,?
+48,4,35,4,?
+59,8,76,2,?
+46,8,75,2,?

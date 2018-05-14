@@ -1,0 +1,19 @@
+@relation 10_Testset_Deny_R1_uror
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 numeric
+@attribute attribute4 numeric
+@attribute attribute5 {Deny,Permit}
+
+@data
+70,6,66,4,?
+70,6,66,5,?
+70,6,67,1,?
+70,6,67,2,?
+70,6,67,3,?
+70,6,67,4,?
+70,6,67,5,?
+70,6,68,1,?
+70,6,68,2,?
+1,1,7,4,?

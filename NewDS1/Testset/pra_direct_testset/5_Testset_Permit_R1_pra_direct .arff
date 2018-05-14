@@ -1,0 +1,12 @@
+@relation 5_Testset_Permit_R1_pra_direct
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+1,1,?
+2,1,?
+23,3,?
+37,4,?
+64,7,?

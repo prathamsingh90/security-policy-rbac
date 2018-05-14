@@ -1,0 +1,17 @@
+@relation 10_Testset_Deny_R1_pra
+
+@attribute attribute_0 numeric
+@attribute attribute_1 numeric
+@attribute attribute_2 {Deny,Permit}
+
+@data
+1,2,?
+3,2,?
+7,4,?
+18,8,?
+26,4,?
+36,3,?
+42,6,?
+64,5,?
+72,9,?
+90,8,?

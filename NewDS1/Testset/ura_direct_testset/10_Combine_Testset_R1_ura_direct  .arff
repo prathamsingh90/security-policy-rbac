@@ -1,0 +1,17 @@
+@relation 10_Combine_Testset_R1_ura_direct
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+17,1,?
+24,1,?
+24,3,?
+33,4,?
+34,1,?
+57,4,?
+57,9,?
+58,4,?
+58,9,?
+59,4,?

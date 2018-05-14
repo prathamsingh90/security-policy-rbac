@@ -1,0 +1,8 @@
+@relation 1_Testset_Permit_R1_pra.arff
+
+@attribute attribute_0 numeric
+@attribute attribute_1 numeric
+@attribute attribute_2 {Deny,Permit}
+
+@data
+18,2,?

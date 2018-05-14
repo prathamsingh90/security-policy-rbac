@@ -1,0 +1,12 @@
+@relation 5_Combine_Testset_R1_ura
+
+@attribute attribute1 numeric
+@attribute attribute2 numeric
+@attribute attribute3 {Deny,Permit}
+
+@data
+21,3,?
+21,5,?
+70,10,?
+71,5,?
+71,10,?
